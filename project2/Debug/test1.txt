@@ -1,0 +1,12 @@
+Name of a city: Dzerzhinsk
+Name of a city: 678
+Name of a city: 98
+Name of a city: 98
+Name of a city: 23
+
+Name of your city: Dzerzhinsk
+Quanity of people in your city: 878999334
+Area of in your city: 32
+A year of foundation of your city: 23
+Quanity of schools in your city: 4
+

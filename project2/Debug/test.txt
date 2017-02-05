@@ -1,0 +1,12 @@
+Name of a city: r
+1
+Name of a city: 6
+3
+Name of a city: fd
+2
+fdfsdfsdfsdName of a city: Дзержинск
+Name of a city: 78
+Name of a city: 34782
+Name of a city: 1977
+Name of a city: 20
+

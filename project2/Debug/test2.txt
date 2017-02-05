@@ -1,0 +1,6 @@
+1Name of your city: 23
+1Quanity of people in your city: 43
+1Area of in your city: 23
+1A year of foundation of your city: 43
+1Quanity of schools in your city: 23
+1
